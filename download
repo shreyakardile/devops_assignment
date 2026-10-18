@@ -1,0 +1,14 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+terraform.tfvars
+*.pem
+*.key
+.ansible/
+__pycache__/
+*.py[cod]
+.env
+venv/
+.pytest_cache/
+app/data/
